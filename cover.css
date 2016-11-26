@@ -139,7 +139,8 @@ body {
 }
 
 .nav {
-  float:center;
+  position: absolute;
+
 }
 
 /*
